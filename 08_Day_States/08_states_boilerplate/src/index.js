@@ -1,7 +1,7 @@
 // index.js
 import React from 'react'
 import ReactDOM from 'react-dom'
-import asabenehImage from './images/asabeneh.jpg'
+import asabenehImage from '../../../../project/src/images/asabeneh.jpg'
 
 // Fuction to show month date year
 

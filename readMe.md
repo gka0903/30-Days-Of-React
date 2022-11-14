@@ -144,7 +144,7 @@ In your new branch, you can use files/folders to structure your solutions to dai
 
 ```bash
 mkdir -p solutions/day-01 # `-p` helps create nested directories
-touch solutions/day-01/level1.js # touch creates a file
+touch solutions/day-01/level1.js.js # touch creates a file
 ```
 
 ### Commit Exercise Solutions
@@ -152,7 +152,7 @@ touch solutions/day-01/level1.js # touch creates a file
 Commit your solutions to your Fork
 
 ```bash
-git add solutions/day-01/level1.js
+git add solutions/day-01/level1.js.js
 git commit -m "chore: exercise level1 complete"
 git push origin exercise-solutions # branch `exercise-solutions` was created earlier
 ```
